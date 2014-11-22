@@ -1,0 +1,17 @@
+{
+  "name": "homeCentre",
+  "version": "0.0.1",
+  "homepage": "https://github.com/tmundt/homeCentre",
+  "authors": [
+    "Tom@Pegasus <info@thomas-mundt.de>"
+  ],
+  "description": "manage home applicances and resources",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
